@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Numero_do_Round__c</fullName>
+    <displayFormat>Round - {000}</displayFormat>
+    <externalId>false</externalId>
+    <label>Número do Round</label>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>

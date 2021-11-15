@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partida__c</fullName>
+    <externalId>false</externalId>
+    <label>Partida</label>
+    <referenceTo>Partida__c</referenceTo>
+    <relationshipLabel>Tabela Participantes Partidas</relationshipLabel>
+    <relationshipName>Tabela_Participantes_Partidas</relationshipName>
+    <relationshipOrder>1</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
